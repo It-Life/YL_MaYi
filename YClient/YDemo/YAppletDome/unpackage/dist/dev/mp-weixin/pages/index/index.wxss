@@ -1,0 +1,21 @@
+
+.current-location{
+	width: 22%;
+	height: 35rpx;
+	float: left;
+	color: dimgray;
+}
+.address{
+	 width: 69%;
+	 height: 35rpx;
+	 float: left;
+	 text-overflow: ellipsis; /* 显示省略号 */
+	 white-space: nowrap; /* 强制字体不换行 */
+	 overflow: hidden; /* 隐藏 */
+	 color: dimgray;
+}
+image{
+	 height: 30rpx;
+	 width: 30rpx;
+}
+

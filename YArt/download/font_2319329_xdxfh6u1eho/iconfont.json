@@ -1,0 +1,16 @@
+{
+  "id": "2319329",
+  "name": "mayidome",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "14276594",
+      "name": "扫一扫",
+      "font_class": "saoyisao",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    }
+  ]
+}

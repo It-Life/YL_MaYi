@@ -1,0 +1,1 @@
+<view><view class="positon-top"><view class="current-location"><text>我的位置</text><image src="../../static/indexImg/address.png"></image>:</view><view class="address">{{Areaaddress}}</view></view></view>

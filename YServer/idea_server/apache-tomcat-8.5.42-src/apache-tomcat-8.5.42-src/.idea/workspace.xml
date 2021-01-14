@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c2fdc4f3-7520-4164-9051-abb3716f0aba" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\Program Files\JetBrains\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lGugkh6zEC65C2ADiXUCVaP7qd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../idea_tamcat_server/apache-tomcat-8.5.60-src" />
+  </component>
+  <component name="RunManager">
+    <configuration name="BootStrap" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="org.apache.catalina.startup.Bootstrap" />
+      <module name="apache-tomcat-10.0.0-M10-src" />
+      <option name="VM_PARAMETERS" value="-Dcatalina.home=D:\Working\GitHub\YaoLing\YL_MaYi\YServer\idea_server\apache-tomcat-8.5.42-src\apache-tomcat-8.5.42-src -Dcatalina.base=D:\Working\GitHub\YaoLing\YL_MaYi\YServer\idea_server\apache-tomcat-8.5.42-src\apache-tomcat-8.5.42-src -Djava.endorsed.dirs=D:\Working\GitHub\YaoLing\YL_MaYi\YServer\idea_server\apache-tomcat-8.5.42-src\apache-tomcat-8.5.42-src/endorsed -Djava.io.tmpdir=D:\Working\GitHub\YaoLing\YL_MaYi\YServer\idea_server\apache-tomcat-8.5.42-src\apache-tomcat-8.5.42-src/temp -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager -Djava.util.logging.config.file=D:\Working\GitHub\YaoLing\YL_MaYi\YServer\idea_server\apache-tomcat-8.5.42-src\apache-tomcat-8.5.42-src/conf/logging.properties" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2fdc4f3-7520-4164-9051-abb3716f0aba" name="Default Changelist" comment="" />
+      <created>1607235863119</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607235863119</updated>
+      <workItem from="1607235864182" duration="3640000" />
+      <workItem from="1607239899350" duration="150000" />
+      <workItem from="1607241676348" duration="3341000" />
+      <workItem from="1607245282265" duration="48000" />
+      <workItem from="1607245358165" duration="867000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3195" y="162" width="868" height="530" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607245554474">
+      <screen x="2560" y="11" width="1536" height="824" />
+    </state>
+    <state x="846" y="204" width="1089" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/2560.11.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1607236449013" />
+    <state x="3195" y="162" width="868" height="530" key="#com.intellij.execution.impl.EditConfigurationsDialog/2560.11.1536.824/0.0.2048.1112@2560.11.1536.824" timestamp="1607245554474" />
+    <state x="1121" y="351" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1607236126078">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="1121" y="351" key="#com.intellij.ide.util.TreeClassChooserDialog/2560.11.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1607236126078" />
+    <state x="3342" y="234" key="FileChooserDialogImpl" timestamp="1607245504097">
+      <screen x="2560" y="11" width="1536" height="824" />
+    </state>
+    <state x="1043" y="301" key="FileChooserDialogImpl/2560.11.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1607240006229" />
+    <state x="3342" y="234" key="FileChooserDialogImpl/2560.11.1536.824/0.0.2048.1112@2560.11.1536.824" timestamp="1607245504097" />
+    <state width="1493" height="251" key="GridCell.Tab.0.bottom" timestamp="1607245270454">
+      <screen x="2560" y="11" width="1536" height="824" />
+    </state>
+    <state width="1649" height="319" key="GridCell.Tab.0.bottom/2560.11.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1607239506629" />
+    <state width="1493" height="251" key="GridCell.Tab.0.bottom/2560.11.1536.824/0.0.2048.1112@2560.11.1536.824" timestamp="1607245270454" />
+    <state width="1493" height="251" key="GridCell.Tab.0.center" timestamp="1607245270454">
+      <screen x="2560" y="11" width="1536" height="824" />
+    </state>
+    <state width="1649" height="319" key="GridCell.Tab.0.center/2560.11.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1607239506629" />
+    <state width="1493" height="251" key="GridCell.Tab.0.center/2560.11.1536.824/0.0.2048.1112@2560.11.1536.824" timestamp="1607245270454" />
+    <state width="1493" height="251" key="GridCell.Tab.0.left" timestamp="1607245270454">
+      <screen x="2560" y="11" width="1536" height="824" />
+    </state>
+    <state width="1649" height="319" key="GridCell.Tab.0.left/2560.11.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1607239506629" />
+    <state width="1493" height="251" key="GridCell.Tab.0.left/2560.11.1536.824/0.0.2048.1112@2560.11.1536.824" timestamp="1607245270454" />
+    <state width="1493" height="251" key="GridCell.Tab.0.right" timestamp="1607245270454">
+      <screen x="2560" y="11" width="1536" height="824" />
+    </state>
+    <state width="1649" height="319" key="GridCell.Tab.0.right/2560.11.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1607239506629" />
+    <state width="1493" height="251" key="GridCell.Tab.0.right/2560.11.1536.824/0.0.2048.1112@2560.11.1536.824" timestamp="1607245270454" />
+    <state width="1493" height="251" key="GridCell.Tab.1.bottom" timestamp="1607245270454">
+      <screen x="2560" y="11" width="1536" height="824" />
+    </state>
+    <state width="1649" height="319" key="GridCell.Tab.1.bottom/2560.11.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1607239506629" />
+    <state width="1493" height="251" key="GridCell.Tab.1.bottom/2560.11.1536.824/0.0.2048.1112@2560.11.1536.824" timestamp="1607245270454" />
+    <state width="1493" height="251" key="GridCell.Tab.1.center" timestamp="1607245270454">
+      <screen x="2560" y="11" width="1536" height="824" />
+    </state>
+    <state width="1649" height="319" key="GridCell.Tab.1.center/2560.11.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1607239506629" />
+    <state width="1493" height="251" key="GridCell.Tab.1.center/2560.11.1536.824/0.0.2048.1112@2560.11.1536.824" timestamp="1607245270454" />
+    <state width="1493" height="251" key="GridCell.Tab.1.left" timestamp="1607245270454">
+      <screen x="2560" y="11" width="1536" height="824" />
+    </state>
+    <state width="1649" height="319" key="GridCell.Tab.1.left/2560.11.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1607239506629" />
+    <state width="1493" height="251" key="GridCell.Tab.1.left/2560.11.1536.824/0.0.2048.1112@2560.11.1536.824" timestamp="1607245270454" />
+    <state width="1493" height="251" key="GridCell.Tab.1.right" timestamp="1607245270454">
+      <screen x="2560" y="11" width="1536" height="824" />
+    </state>
+    <state width="1649" height="319" key="GridCell.Tab.1.right/2560.11.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1607239506629" />
+    <state width="1493" height="251" key="GridCell.Tab.1.right/2560.11.1536.824/0.0.2048.1112@2560.11.1536.824" timestamp="1607245270454" />
+    <state x="3237" y="225" key="NewModule_or_Project.wizard" timestamp="1607245505997">
+      <screen x="2560" y="11" width="1536" height="824" />
+    </state>
+    <state x="902" y="289" key="NewModule_or_Project.wizard/2560.11.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1607240047614" />
+    <state x="3237" y="225" key="NewModule_or_Project.wizard/2560.11.1536.824/0.0.2048.1112@2560.11.1536.824" timestamp="1607245505997" />
+    <state x="1007" y="283" width="740" height="536" key="find.popup" timestamp="1607241732921">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="1007" y="283" width="740" height="536" key="find.popup/2560.11.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1607241732921" />
+    <state x="453" y="274" width="672" height="678" key="search.everywhere.popup" timestamp="1607237575773">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="453" y="274" width="672" height="678" key="search.everywhere.popup/2560.11.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1607237575773" />
+  </component>
+</project>
